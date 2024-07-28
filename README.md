@@ -1,11 +1,5 @@
 <h1 align="left">Olá, tudo bem?</h1>
 
-###
-
-<p align="left">Meu nome é Eliasafe, sou um desenvolvedor Front-end, moro no Brasil 🇧🇷</p>
-
-###
-
 <h2 align="left">Olá! Sou Eliasafe, tenho 16 anos e sou um verdadeiro entusiasta de tecnologia. Estou no início da minha jornada como desenvolvedor web, atualmente focado em aprender HTML e CSS, com planos de avançar para JavaScript e React em breve. Minha paixão é criar coisas do zero e ver minhas ideias ganharem vida na web. Estou constantemente buscando aprender e aprimorar minhas habilidades para desenvolver sites incríveis. Se você está procurando alguém proativo, com uma grande capacidade de resolver problemas e uma vontade imensa de crescer na área de desenvolvimento web, sou a pessoa certa para você! 😊</h2>
 
 ###
