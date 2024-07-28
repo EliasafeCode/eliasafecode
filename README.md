@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">✨ Desenvolvo desde 01/2024...<br>📚 Estou atualmente aprendendo CSS ...<br>🎯 Tenho objetivo de me tornar um grande profissional ...</p>
+<p align="left" size="30px">✨ Desenvolvo desde 01/2024...<br>📚 Estou atualmente aprendendo CSS ...<br>🎯 Tenho objetivo de me tornar um grande profissional ...</p>
 
 ###
 
