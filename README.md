@@ -32,7 +32,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Eliasafe Portfolio](https://eliasafecode.github.io/portfolio-eliasafe/index.html)
+- [Eliasafe Portfolio](https://eliasafecode.github.io/Eliasafe-portfolio/index.html)
 
 <!-- GIF -->
 <p align="left">
