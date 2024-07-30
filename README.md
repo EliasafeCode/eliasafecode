@@ -24,8 +24,8 @@
 </details>
 
 <!-- Links -->
-[![Youtube](https://www.youtube.com/channel/UCd611KrjFu1PQoFWP4lK7cw)
-[![Instagram](https://www.instagram.com/onedev.qualquer/)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCd611KrjFu1PQoFWP4lK7cw)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/onedev.qualquer/)
 
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
