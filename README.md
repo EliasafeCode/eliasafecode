@@ -10,7 +10,7 @@
 
 
   - ✨ Desenvolvo desde 01/2024
-  - 🌱 Estou atualmente aprendendo CSS />
+  - 🌱 Estou atualmente aprendendo CSS
   - 🎯 Tenho objetivo de me tornar um grande profissional. Ser destaque entre os demais..
 </p>
 
@@ -20,7 +20,7 @@
 
   - 💬 Olá! Sou Eliasafe, um jovem de 16 anos apaixonado por tecnologia e no início da minha jornada como desenvolvedor web. Atualmente estou aprendendo HTML e CSS, com planos de explorar JavaScript e React. Estou sempre buscando aprender e aprimorar minhas habilidades para criar sites incríveis. Se você procura alguém proativo e dedicado, estou aqui para ajudar! 😊
 
-  - ⚡ Eu pratico taekwondo, algo que amo muito, amo soltar pipa e jogar futebol.. \o/
+  - ⚡ Eu pratico taekwondo, algo que amo muito, amo soltar pipa e jogar futebol..
 </details>
 
 <!-- Links -->
