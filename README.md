@@ -10,7 +10,7 @@
 
 
   - ✨ Desenvolvo desde 01/2024
-  - 🌱 Estou atualmente aprendendo CSS <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 Estou atualmente aprendendo CSS />
   - 🎯 Tenho objetivo de me tornar um grande profissional. Ser destaque entre os demais..
 </p>
 
